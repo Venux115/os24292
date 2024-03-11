@@ -1,0 +1,8 @@
+[Error] TCpfCnpj.pas(16): Field or method identifier expected
+[Error] TCpfCnpj.pas(31): Undeclared identifier: 'create'
+[Error] TCpfCnpj.pas(33): This form of method call only allowed in methods of derived types
+[Error] TCpfCnpj.pas(36): Declaration of 'setTipoConteudo' differs from previous declaration
+[Error] TCpfCnpj.pas(38): Undeclared identifier: 'FTipoConteudo'
+[Error] TCpfCnpj.pas(12): Unsatisfied forward or external declaration: 'TMaskCpfCnpj.setTipoConteudo'
+[Error] TCpfCnpj.pas(17): Unsatisfied forward or external declaration: 'TMaskCpfCnpj.create'
+[Fatal Error] pkgTmaskPdfPnj.dpk(32): Could not compile used unit 'TCpfCnpj.pas'
